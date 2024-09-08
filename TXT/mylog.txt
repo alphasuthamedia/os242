@@ -12,3 +12,4 @@ ZCZC W01 15 L03 GitHub related
 ZCZC W01 120 L03 GitHub related: learn to use 4 Mantras by terminal
 ZCZC W01 5 L03 GitHub related
 ZCZC W01 30 L09 Weekly Assignment
+ZCZC W01 15 Basic Terminal : Learn REGEX in 15 minutes https://youtu.be/bgBWp9EIlMM
