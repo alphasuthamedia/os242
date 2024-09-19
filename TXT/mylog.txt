@@ -27,3 +27,16 @@ ZCZC W02 40 L82 Reading Operating System Concepts, 10th Edition, 2018
 ZCZC W02 05 L03 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 120 L12 Week 2 Assignment
 ZCZC W02 05 L03 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W03 10 L03 GitHUb related
+ZCZC W03 05 L07 Updating Demos Week 03
+ZCZC W03 90 L09 Weekly Assignment
+ZCZC W03 30 L82 Reading Operating System Concepets, 10th Edition, 2018, chapter 13, 14, and 15
+ZCZC W03 10 L41 Updating TXT/mylog.txt
+ZCZC W03 10 L43 Updating TXT/myrank.txt
+ZCZC W03 05 L44 Ran TXT/myscript.sh
+ZCZC W03 90 L09 Weekly Assignment
+ZCZC W03 20 L01 Answering Pop Quiz 3
+ZCZC W03 20 L41 Updating my log
+ZCZC W03 100 L02 Attending OS Class
+ZCZC W03 10 L60 Backup my Virtual Box
