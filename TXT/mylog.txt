@@ -40,3 +40,23 @@ ZCZC W03 20 L01 Answering Pop Quiz 3
 ZCZC W03 20 L41 Updating my log
 ZCZC W03 100 L02 Attending OS Class
 ZCZC W03 10 L60 Backup my Virtual Box
+
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 20 L09 Assignment in General
+ZCZC W04 05 L07 Demo related
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 90 L09 Weekly Assignment
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L05 Quiz related including studying
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L09 Assignment in General
+ZCZC W04 05 L07 Demo related
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 90 L09 Weekly Assignment
+ZCZC W04 20 L09 Assignment in General
+ZCZC W04 05 L07 Demo related
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 90 L09 Weekly Assignment
+ZCZC W04 05 L03 L03 GitHub and git related, including commit, push, pull

@@ -15,3 +15,7 @@ CyberSecurity Course (full course) [CyberSecurity for Beginer](https://youtu.be/
 Understanding TAR vs ZIP [TAR vs ZIP](https://stackoverflow.com/questions/10540935/what-is-the-difference-between-tar-and-zip)
 
 What is a TARBALL?? [Tarball : Information](https://computing.help.inf.ed.ac.uk/FAQ/whats-tarball-or-how-do-i-unpack-or-create-tgz-or-targz-file)
+
+POPQUIZ Error, changing locale language [CHANGING LOCALE LANGUAGE](https://www.geeksforgeeks.org/how-to-change-or-set-system-locales-in-linux/)
+
+Changing locale Lang (another discussion) [ANOTHER DISCUSSION ABOUT CHANGIN LOCALE LANGUAGE](https://askubuntu.com/questions/89976/how-do-i-change-the-default-locale-in-ubuntu-server)
