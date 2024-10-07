@@ -60,3 +60,20 @@ ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 90 L09 Weekly Assignment
 ZCZC W04 05 L03 L03 GitHub and git related, including commit, push, pull
+
+ZCZC W05 60 L64 Helping a friend (OS related problem)
+ZCZC W05 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 05 L04 Github Pages Related
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 40 L09 Assignment in General
+ZCZC W05 190 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 05 L04 Github Pages Related
+ZCZC W05 190 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 40 L09 Assignment in General
+ZCZC W05 05 L03 GitHub and git related, including commit, push, pull
