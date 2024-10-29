@@ -26,3 +26,5 @@ MEMORY [Recording Week05: Addressing, Shared Lib, & Pointer ](https://www.youtub
 MEASSURING MEM USAGE [How can I measure the actual memory usage of an application or process?](https://stackoverflow.com/questions/131303/how-can-i-measure-the-actual-memory-usage-of-an-application-or-process?page=2&tab=scoredesc)
 
 READING LIVE MEM [Reading living process memory without interrupting it](https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it)
+
+mmap vs malloc [C MEMORY ALLOCATION FUNCTION](https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c)
