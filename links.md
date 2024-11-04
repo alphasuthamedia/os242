@@ -28,3 +28,7 @@ MEASSURING MEM USAGE [How can I measure the actual memory usage of an applicatio
 READING LIVE MEM [Reading living process memory without interrupting it](https://stackoverflow.com/questions/12977179/reading-living-process-memory-without-interrupting-it)
 
 mmap vs malloc [C MEMORY ALLOCATION FUNCTION](https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c)
+
+File Ownership [`chown` command in Linux](https://ioflood.com/blog/chown-linux-command/)
+
+Linux FileSystem [Classic SysAdmin: The Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)

@@ -98,3 +98,25 @@ ZCZC W06 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W06 30 L09 Assignment in General
 ZCZC W06 05 L07 Demo related
 ZCZC W06 205 L04 Github Pages Related
+
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 90 L09 Assignment in General
+ZCZC W07 05 L07 Demo related
+ZCZC W07 05 L04 Github Pages Related
+ZCZC W07 30 L24 Scripting in general.
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 90 L09 Assignment in General
+ZCZC W07 05 L07 Demo related
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 90 L09 Assignment in General
+ZCZC W07 05 L07 Demo related
+ZCZC W07 05 L07 Demo related
+ZCZC W07 05 L04 Github Pages Related
+ZCZC W07 30 L24 Scripting in general.
+ZCZC W07 15 L06 References/Books/Documents/Browsing/GSGS related
