@@ -32,3 +32,7 @@ mmap vs malloc [C MEMORY ALLOCATION FUNCTION](https://stackoverflow.com/question
 File Ownership [`chown` command in Linux](https://ioflood.com/blog/chown-linux-command/)
 
 Linux FileSystem [Classic SysAdmin: The Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)
+
+Changing Ownership [CHOWN](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
+
+THE HERO [YT : Kernotex (os things)](https://www.youtube.com/@Kernotex)
